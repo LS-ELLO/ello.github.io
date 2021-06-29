@@ -1,0 +1,10 @@
+---
+title: "GitHub Actions와 Azure Service에 대한 연동"
+date: 2021-06-29 09:20:00 -0400
+categories: ml-ops
+---
+
+`GitHub Actions`를 이용해 Azure내의 여러 Service들과 연동하는 방법에 대해 알아보겠습니다.
+
+<br>
+
